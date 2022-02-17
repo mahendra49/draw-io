@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T07:51:02.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="yeVeWE_bneca4fpGDSq_" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T07:52:07.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="ptHF4ZeWvdSM3B5F60CX" version="16.5.6" type="github">
   <diagram id="t3s6REFhiwwXwHESMnRB" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1597,7 +1597,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rcCzId-d-z-wgNafooQ-106" value="Now eliminate edges with 0 residual flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2630" width="250" height="20" as="geometry" />
+          <mxGeometry x="495" y="2660" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7rcCzId-d-z-wgNafooQ-107" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="439.6875" y="2360" width="340.3125" height="240" as="geometry" />
@@ -1767,6 +1767,15 @@
         </mxCell>
         <mxCell id="7rcCzId-d-z-wgNafooQ-141" value="0" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" connectable="0" vertex="1" parent="7rcCzId-d-z-wgNafooQ-140">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rcCzId-d-z-wgNafooQ-145" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="2650" as="sourcePoint" />
+            <mxPoint x="510" y="2330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="2480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

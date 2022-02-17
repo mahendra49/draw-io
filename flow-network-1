@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T19:33:06.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="gOFUdQ0giyPYQux6MrKP" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T20:19:45.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="N6U4Hwl54EyvgrDxz9pr" version="16.5.6" type="github">
   <diagram id="VwC91kBC_kA6CAibp16X" name="Page-1">
-    <mxGraphModel dx="7134" dy="4307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2929" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,8 +106,8 @@
         <mxCell id="6xTC2UxRFiFChQdO6C_q-27" value="0/8" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="6xTC2UxRFiFChQdO6C_q-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6xTC2UxRFiFChQdO6C_q-28" value="start with flow 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="6xTC2UxRFiFChQdO6C_q-29">
-          <mxGeometry x="215" y="210" width="130" height="30" as="geometry" />
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-28" value="Graph with flow 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="6xTC2UxRFiFChQdO6C_q-29">
+          <mxGeometry x="205" y="210" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-67" value="flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="6xTC2UxRFiFChQdO6C_q-29">
           <mxGeometry x="-30" y="80" width="50" height="30" as="geometry" />
@@ -231,9 +231,6 @@
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-68" value="capacity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="220" y="465" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6xTC2UxRFiFChQdO6C_q-69" value="The Ford-Fulkerson algorithm for finding the&lt;br&gt;maximum flow:&lt;br&gt;a. Construct the Residual Graph&lt;br&gt;b. Find a path from the source to the sink with strictly&lt;br&gt;positive flow.(use BFS -&lt;font color=&quot;rgba(0, 0, 0, 0)&quot; face=&quot;sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18px ; background-color: rgb(242 , 242 , 242)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#ba0000&quot; face=&quot;sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;edmonds-karp&lt;/span&gt;&lt;/font&gt;&lt;span dir=&quot;ltr&quot; class=&quot;textLayer--absolute&quot; style=&quot;box-sizing: border-box ; color: transparent ; position: absolute ; cursor: text ; transform-origin: 0% 0% ; display: block ; float: left ; margin-bottom: -918px ; margin-right: -918px ; background-color: rgb(242 , 242 , 242) ; left: 323.535px ; top: 862.53px ; font-size: 18px ; font-family: sans-serif ; padding: 1.98px 0px 1.35px 0.0495px ; transform: translatey(-1.98px) translatex(-0.0495px)&quot;&gt;-&lt;/span&gt;)&lt;br&gt;c. If this path exists, update flow to include it. Go to&lt;br&gt;Step a.&lt;br&gt;d. Else, the flow is maximal.&lt;br&gt;e. The (s,t)-cut has as S all vertices reachable from the&lt;br&gt;source, and T as V - S." style="text;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="270" y="720" width="620" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-72" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="1070" width="530" height="245" as="geometry" />
@@ -3456,6 +3453,94 @@
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-984" value="capacity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="2100" y="3960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-985" value="&lt;div&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 25px&quot;&gt;Ford–Fulkerson algorithm :&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 20px&quot;&gt;1. Construct the Residual Graph&lt;br&gt;2. Find a path from the source to the sink with a &lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;strictly positive flow.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;3. If this path exists, update the flow to include it. Go to Step 1.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;4. Else, the flow is maximal.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;5. The (s,t)-cut has as S all vertices reachable from the source, and T as V - S.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#FF3333;fillColor=#CDEB8B;opacity=50;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="739" width="790" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-987" value="&lt;font color=&quot;#000000&quot;&gt;Residual Capacity :&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;c&lt;sub&gt;f&lt;/sub&gt;(e) =&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1105" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-988" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=20;fillColor=#ffff88;opacity=50;labelBorderColor=#FF6666;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1160" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-990" value="c(e) - f(e) , if e is forward edge&amp;nbsp;&lt;br&gt;&lt;br&gt;f(e) , if e is backward edge&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1180" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-992" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-993" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1001" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1935" y="1140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1002" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1003" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6xTC2UxRFiFChQdO6C_q-1001" target="6xTC2UxRFiFChQdO6C_q-1002">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1985" y="1205" as="sourcePoint" />
+            <mxPoint x="2085" y="1205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1004" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;fontColor=#000000;strokeColor=#FF6666;fillColor=none;gradientColor=none;opacity=50;" connectable="0" vertex="1" parent="6xTC2UxRFiFChQdO6C_q-1003">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1019" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF6666;" vertex="1" connectable="0" parent="6xTC2UxRFiFChQdO6C_q-1003">
+          <mxGeometry x="-0.089" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1007" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;entryX=0.675;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6xTC2UxRFiFChQdO6C_q-1002" target="6xTC2UxRFiFChQdO6C_q-1001">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="1300" as="sourcePoint" />
+            <mxPoint x="2100" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2090" y="1220" />
+              <mxPoint x="2050" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1020" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF6666;" vertex="1" connectable="0" parent="6xTC2UxRFiFChQdO6C_q-1007">
+          <mxGeometry x="-0.0387" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1010" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="1230" as="sourcePoint" />
+            <mxPoint x="1650" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1011" value="flow(f)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1225" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1012" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720" y="1235" as="sourcePoint" />
+            <mxPoint x="1690" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1013" value="capacity(e)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1225" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1014" value="&lt;font color=&quot;#ff6666&quot;&gt;original flow network G&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1105" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1015" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20color%3D%26quot%3B%23ff6666%26quot%3B%26gt%3Boriginal%20flow%20network%20G%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D20%3BfontColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221585%22%20y%3D%221105%22%20width%3D%22230%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;residual network Gf&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1016" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#FF6666;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;horizontal=1;" edge="1" parent="1" target="6xTC2UxRFiFChQdO6C_q-993">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="1168" as="sourcePoint" />
+            <mxPoint x="1710" y="1168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-1018" value="6/10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FF6666;" vertex="1" connectable="0" parent="6xTC2UxRFiFChQdO6C_q-1016">
+          <mxGeometry x="-0.1436" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

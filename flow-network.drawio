@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T07:57:39.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="v5tpVz8Qgmo7txOYoPiB" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T07:59:24.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="IzkWTA9aEIQOuxC0KJub" version="16.5.6" type="github">
   <diagram id="t3s6REFhiwwXwHESMnRB" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1599,9 +1599,6 @@
         <mxCell id="7rcCzId-d-z-wgNafooQ-105" value="0" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" connectable="0" vertex="1" parent="7rcCzId-d-z-wgNafooQ-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rcCzId-d-z-wgNafooQ-106" value="Now eliminate edges with 0 residual flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="100.14999999999998" y="3010" width="250" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="7rcCzId-d-z-wgNafooQ-107" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="444.6875" y="2720" width="340.3125" height="240" as="geometry" />
         </mxCell>
@@ -1761,6 +1758,15 @@
           <mxGeometry x="0.138" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7rcCzId-d-z-wgNafooQ-183" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeColor=#82b366;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;" edge="1" parent="7rcCzId-d-z-wgNafooQ-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113.06749999999988" y="63.25" as="sourcePoint" />
+            <mxPoint x="112.94249999999988" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7rcCzId-d-z-wgNafooQ-184" value="0" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" connectable="0" vertex="1" parent="7rcCzId-d-z-wgNafooQ-183">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rcCzId-d-z-wgNafooQ-145" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

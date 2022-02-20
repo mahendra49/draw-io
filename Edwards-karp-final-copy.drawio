@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T18:42:30.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="5aSd8ov7dH6G38JEu11P" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T18:50:04.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="M429tp6uj4ZrLRQeB3hY" version="16.6.1" type="github">
   <diagram id="VwC91kBC_kA6CAibp16X" name="Page-1">
-    <mxGraphModel dx="1773" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,7 +1259,7 @@
         <mxCell id="6xTC2UxRFiFChQdO6C_q-477" value="Find an s↝t path P in the residual network (Gf), also edges should have +ve residual capacity&lt;br&gt;choose shortest path(&lt;span style=&quot;color: rgb(186 , 0 , 0) ; font-family: sans-serif ; font-size: 18px ; text-align: left&quot;&gt;edmonds-karp&lt;/span&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="50" y="2740" width="720" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6xTC2UxRFiFChQdO6C_q-485" value="Path is : s-&amp;gt;A-&amp;gt;D-&amp;gt;t&lt;br&gt;Min flow value along this path is min{4, 8, 1} = 1&lt;br&gt;So we push a flow of 1 along this path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-485" value="Path is : s-&amp;gt;A-&amp;gt;D-&amp;gt;t&lt;br&gt;Min flow value along this path is min{6, 8, 1} = 1&lt;br&gt;So we push a flow of 1 along this path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="750" y="2520" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-486" value="" style="group" parent="1" vertex="1" connectable="0">

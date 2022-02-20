@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T18:54:22.795Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="A45jjtMk9IA1nFcSsvCy" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T18:56:16.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="R3iNHvnEWk05Aux7s6Mo" version="16.6.1" type="github">
   <diagram id="VwC91kBC_kA6CAibp16X" name="Page-1">
     <mxGraphModel dx="1650" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3028,8 +3028,8 @@
             <mxPoint x="970" y="4030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xTC2UxRFiFChQdO6C_q-834" value="So {S, C} forms one partition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="745" y="3990" width="230" height="30" as="geometry" />
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-834" value="So vertices {S, C} forms one partition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#EA6B66;" parent="1" vertex="1">
+          <mxGeometry x="715" y="3990" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-835" value="So V - {S, C} forms another partition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="720" y="4030" width="290" height="30" as="geometry" />
@@ -3297,8 +3297,8 @@
             <mxPoint x="1980" y="4030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xTC2UxRFiFChQdO6C_q-885" value="Take all outgoing edges from s partition into t partition&lt;br&gt;in the original graph" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="4030" width="420" height="50" as="geometry" />
+        <mxCell id="6xTC2UxRFiFChQdO6C_q-885" value="pick all outgoing edges from s partition into t partition&lt;br&gt;in the original graph" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="1659" y="4030" width="410" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6xTC2UxRFiFChQdO6C_q-933" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2170" y="3935" width="570" height="268" as="geometry" />

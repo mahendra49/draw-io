@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T20:15:14.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="q-aBla27Q2WZg8PjX6ho" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T20:17:07.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="ZZ8d5__fY6NW_afJBftL" version="17.1.1" type="github">
   <diagram id="_dFQV9yzRKjEPI2oUBaA" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1370,8 +1370,8 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WXEVEu52d8ca_O_jeVY-551" value="As dist[C] as dist[B] + weight(B, C) &amp;lt; dist[C] so we &lt;br&gt;update dist[C] = dist[B] + weight(B, C)&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2125" width="390" height="70" as="geometry" />
+        <mxCell id="8WXEVEu52d8ca_O_jeVY-551" value="check if dist[B] + weight(B, C) &amp;lt; dist[C] if so we &lt;br&gt;update dist[C] = dist[B] + weight(B, C)&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2125" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8WXEVEu52d8ca_O_jeVY-552" value="Extract&amp;nbsp; min value form&amp;nbsp; priority Queue, so pick C and process it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="2310" width="500" height="30" as="geometry" />
@@ -1666,8 +1666,8 @@
             <mxPoint x="1414.9999999999995" y="2780.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WXEVEu52d8ca_O_jeVY-618" value="As dist[C] as dist[B] + weight(B, C) &amp;lt; dist[C] so we &lt;br&gt;update dist[C] = dist[B] + weight(B, C)&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2710" width="390" height="70" as="geometry" />
+        <mxCell id="8WXEVEu52d8ca_O_jeVY-618" value="check if dist[C] + weight(C, D) &amp;lt; dist[D] , so we don&#39;t update dist[D]&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="2720" width="520" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

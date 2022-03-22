@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T23:50:17.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="CazMO2b7Gof0RFlLAGrT" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T23:50:51.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="e5a5naYHO8kziumRmeX0" version="17.1.4" type="github">
   <diagram id="BbuX6d9MuGe36eEdIn-_" name="Page-1">
     <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,6 +310,9 @@
         </mxCell>
         <mxCell id="MEUeXcoPpYQQ2M0SvhKJ-70" value="&lt;span style=&quot;box-sizing: border-box ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;poppins&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Updating matrix A&lt;span style=&quot;box-sizing: border-box ; position: relative ; font-size: 12px ; line-height: 0 ; vertical-align: baseline ; bottom: -0.25em&quot;&gt;1&lt;/span&gt;&amp;nbsp;which contains the distance between each node with &lt;b&gt;‘1’&lt;/b&gt; as an intermediate node. &lt;br&gt;Update distance if minimum distance value smaller than existing distance value found.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="730" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUeXcoPpYQQ2M0SvhKJ-71" value="&lt;span style=&quot;background-color: rgb(204 , 255 , 153)&quot;&gt;&lt;b&gt;A(i,j) = min(A(i,j), A(i,k) + A(k,j))&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="274" y="720" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

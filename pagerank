@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T04:12:30.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="nzXbV1i5kDbh0jK4H83x" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T04:26:27.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="02dS-8gKGrGpLLfTK4G4" version="17.4.1" type="github">
   <diagram id="7rTt8_Fhgp_cRV0nhsmB" name="Page-1">
     <mxGraphModel dx="1650" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="f80CKpTrlipehbGfS9rQ-18" value="#iteration 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="555" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f80CKpTrlipehbGfS9rQ-19" value="PR(1) = (1 - 0.8)/6 + 0.8((1/6)/2))&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(2) = (1 - 0.8)/6 + 0.8((1/6)/2 + (1/6)/1)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(3) = (1 - 0.8)/6 + 0.8((1/6)/2 + (1/6)/2 +(1/6)/2&lt;br&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="572.07" width="470" height="90" as="geometry" />
+        <mxCell id="f80CKpTrlipehbGfS9rQ-19" value="PR(1) = (1 - 0.8)/6 + 0.8((1/6)/2))&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(2) = (1 - 0.8)/6 + 0.8((1/6)/2 + (1/6)/1)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(3) = (1 - 0.8)/6 + 0.8((1/6)/2 + (1/6)/2 +(1/6)/2)&lt;br&gt;PR(4) = (1 - 0.8)/6 + 0.8((1/6)/2))&lt;br&gt;&amp;nbsp;PR(5) = (1 - 0.8)/6 + 0.8((1/6)/3 + (1/6)/2)&lt;br&gt;PR(5) = (1 - 0.8)/6 + 0.8((1/6)/3))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="547.07" width="550" height="140" as="geometry" />
         </mxCell>
         <mxCell id="f80CKpTrlipehbGfS9rQ-20" value="And Damping Factor = 0.8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="270" y="440" width="230" height="30" as="geometry" />

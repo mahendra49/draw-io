@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T04:43:55.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="RrnduTt7J3nao9CmznFc" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T04:44:06.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="gspSQ0ejn1HPvgT4GBFq" version="17.4.1" type="github">
   <diagram id="7rTt8_Fhgp_cRV0nhsmB" name="Page-1">
     <mxGraphModel dx="1650" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
         <mxCell id="f80CKpTrlipehbGfS9rQ-27" value="PR(1) = (1 - 0.8)/6 + 0.8((0.23)/2)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(2) = (1 - 0.8)/6 + 0.8((0.1)/2 + (0.23)/1)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(3) = (1 - 0.8)/6 + 0.8((0.1)/2 + (0.23)/2 +(0.1)/2)&lt;br&gt;&amp;nbsp;PR(4) = (1 - 0.8)/6 + 0.8((0.07)/2)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PR(5) = (1 - 0.8)/6 + 0.8((0.1)/3 + (0.07)/2)&lt;br&gt;&amp;nbsp;PR(6) = (1 - 0.8)/6 + 0.8((0.1)/3))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-65" y="950" width="560" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="f80CKpTrlipehbGfS9rQ-28" value="PR(1) =&amp;nbsp;0.125&lt;br&gt;&amp;nbsp; PR(2) =&amp;nbsp;0.257&lt;br&gt;&amp;nbsp; PR(3) =&amp;nbsp;0.205&lt;br&gt;PR(4) = 0.1&lt;br&gt;&amp;nbsp; PR(5) = 0.14&lt;br&gt;&amp;nbsp; PR(6) = 0.07" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1110" width="140" height="140" as="geometry" />
+        <mxCell id="f80CKpTrlipehbGfS9rQ-28" value="&amp;nbsp; &amp;nbsp; PR(1) =&amp;nbsp;0.125&lt;br&gt;&amp;nbsp; &amp;nbsp; PR(2) =&amp;nbsp;0.257&lt;br&gt;&amp;nbsp; &amp;nbsp; PR(3) =&amp;nbsp;0.205&lt;br&gt;PR(4) = 0.1&lt;br&gt;&amp;nbsp; PR(5) = 0.14&lt;br&gt;&amp;nbsp; PR(6) = 0.07" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="f80CKpTrlipehbGfS9rQ-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

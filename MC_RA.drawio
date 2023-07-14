@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T01:33:34.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="JLUZyPo5r8fiL50FSJjb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T02:28:28.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PlN0s_1sXA6RVbQvdsXn" version="21.6.2" type="github">
   <diagram name="Page-1" id="t-3rY1iMN5xklZCQBrU_">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_ABmjCxCwPryT6eVCt0L-1" value="High Performance&lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABmjCxCwPryT6eVCt0L-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#FF6666;fillColor=#FFFFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;fontColor=#333333;fillStyle=solid;rotation=-225;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="52" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABmjCxCwPryT6eVCt0L-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#FF6666;fillColor=#FFFFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;fontColor=#333333;fillStyle=solid;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="52" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_ABmjCxCwPryT6eVCt0L-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#FF6666;fillColor=#FFFFCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;fontColor=#333333;fillStyle=solid;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="88" y="520" width="52" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
